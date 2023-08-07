@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facilita</string>
+    <string name="desc">Image</string>
+    <string name="textobotaocadastro">CRIAR NOVA CONTA</string>
+    <string name="textobotaologin">LOGIN</string>
+    <string name="backgrounddesc">background</string>
+    <string name="tela_de_boas_vindas">tela de boas vindas</string>
+</resources>
